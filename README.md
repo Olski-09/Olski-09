@@ -1,4 +1,6 @@
 ## Hi there 👋
+Currently a german high-school-student graduating this summer
+I want to study medicine informatics
 
 <!--
 **Olski-09/Olski-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
