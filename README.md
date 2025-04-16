@@ -1,5 +1,5 @@
 ## Hi there 👋
-Currently a german high-school-student graduating this summer
+Currently a german high-school-student graduating this summer\
 I want to study medicine informatics
 
 <!--
